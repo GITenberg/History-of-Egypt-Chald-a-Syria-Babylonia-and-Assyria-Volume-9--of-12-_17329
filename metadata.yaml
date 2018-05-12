@@ -32,6 +32,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4759
     wikipedia: http://en.wikipedia.org/wiki/Archibald_Sayce
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17329#History-of-Egypt-Chald-a-Syria-Babylonia-and-Assyria-Volume-9--of-12-
 gutenberg_bookshelf: Egypt
 gutenberg_issued: '2005-12-16'
 gutenberg_type: Text
