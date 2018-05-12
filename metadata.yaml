@@ -1,0 +1,51 @@
+_repo: History-of-Egypt-Chald-a-Syria-Babylonia-and-Assyria-Volume-9--of-12-_17329
+_version: 0.1.0
+alternative_title: History of Egypt, Chaldea, Syria, Babylonia, and Assyria, Volume
+  9 (of 12)
+contributor:
+  translator:
+    agent_name: McClure, M. L.
+    alias: McClure, M.L.
+    deathdate: 1918
+    gutenberg_agent_id: '7309'
+    url: http://www.gutenberg.org/2009/agents/7309
+covers:
+- cover_type: archival
+  image_path: 17329-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Maspero, G. (Gaston)
+    alias: Maspero, Gaston Camille Charles, Sir
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '3672'
+    url: http://www.gutenberg.org/2009/agents/3672
+    wikipedia: http://en.wikipedia.org/wiki/Gaston_Maspero
+  editor:
+    agent_name: Sayce, A. H. (Archibald Henry)
+    aliases:
+    - Sayce, Archibald Henry
+    - Sayce, A.H.
+    birthdate: 1845
+    deathdate: 1933
+    gutenberg_agent_id: '4759'
+    url: http://www.gutenberg.org/2009/agents/4759
+    wikipedia: http://en.wikipedia.org/wiki/Archibald_Sayce
+description: ''
+gutenberg_bookshelf: Egypt
+gutenberg_issued: '2005-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17329'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History, Ancient'
+- !lcc 'DS'
+- !lcsh 'Middle East -- History'
+- !lcsh 'Civilization, Ancient'
+- !lcsh 'Egypt -- History -- To 640 A.D.'
+title: History of Egypt, Chaldæa, Syria, Babylonia, and Assyria, Volume 9 (of 12)
+url: http://www.gutenberg.org/ebooks/17329
